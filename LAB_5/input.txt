@@ -1,0 +1,2 @@
+Welcome to java Input Stream
+This is a sample file
